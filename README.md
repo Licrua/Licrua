@@ -66,7 +66,7 @@
 
 - **Электронная почта:** [licruacorp@gmail.com](mailto:licruacorp@gmail.com)
 - **GitHub:** [Licrua](https://github.com/Licrua)
-- **Discord:** . HillyBilly#7214
+- **Discord:** HillyBilly#7214
 
 
 
