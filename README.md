@@ -9,7 +9,16 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
+## Контакты:
+
+[![ВКонтакте](https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/hgn41)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ilya01034)
+
 ---
+
+
+
+
 ## Подробнее обо мне
 Привет! Меня зовут Илья, я разработчик и энтузиаст технологий, специализирующийся на веб-разработке.
 Погружение в мир программирования началось с создания простых веб-страниц, но быстро переросло в более серьезные проекты. Я увлекся разработкой и за последние полтора года освоил множество технологий и инструментов, среди которых:
